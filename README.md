@@ -48,7 +48,7 @@ Os resultados foram consolidados em um dashboard interativo desenvolvido no Powe
 ## 📈 Principais Resultados
 - Foram analisados 6.000 registros de vendas, permitindo uma visão consolidada do desempenho comercial.
 - O faturamento total analisado foi de aproximadamente R$ 1,22 milhão.
-- O lucro gerado foi de aproximadamente R$ 513.142 , representando uma margem consolidada de aproximadamente 42,1%.
+- O lucro gerado foi de aproximadamente R$ 513.142, representando uma margem consolidada de aproximadamente 42,1%.
 - A análise permitiu comparar a receita realizada com as metas estabelecidas para cada categoria.
 - Foram identificadas diferenças de desempenho entre as categorias, permitindo direcionar a análise para aquelas com maior contribuição para o faturamento e para aquelas que apresentam oportunidades de melhoria.
 - A análise de rentabilidade mostrou que o volume de receita deve ser avaliado em conjunto com a margem e o lucro para compreender a qualidade do resultado.
